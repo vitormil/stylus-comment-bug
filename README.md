@@ -59,15 +59,15 @@ styles.styl
 Terminal
 --------
 > stylus a.styl -p
->>>>>>>>>> IT WORKS!
+>> IT WORKS!
 
 > stylus b.styl -p (IT WORKS!)
->>>>>>>>>> IT WORKS!
+>> IT WORKS!
 
 but...
 
 > stylus styles.styl -p
->>>>>>>>>> Suppresses inappropriately the multi-line comments from a.styl and b.styl
+>> Suppresses inappropriately the multi-line comments from a.styl and b.styl
 
 ```css
 .a1 {
