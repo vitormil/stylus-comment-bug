@@ -1,6 +1,8 @@
 stylus-comment-bug
 ==================
 
+http://learnboost.github.io/stylus/docs/comments.html
+
 a.styl
 ------
 
