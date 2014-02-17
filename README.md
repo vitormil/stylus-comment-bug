@@ -100,3 +100,8 @@ $ stylus styles.styl -p
   color: Chocolate;
 }
 ```
+
+Issue
+-----
+
+https://github.com/LearnBoost/stylus/issues/1389
