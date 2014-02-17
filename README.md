@@ -60,6 +60,9 @@ styles.styl
 
 Terminal
 --------
+$ stylus -V
+> 0.42.2
+
 $ stylus a.styl -p
 > IT WORKS!
 
